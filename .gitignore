@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Database files
+*.sqlite3
+
+# Django secret key file (if stored separately)
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# Static and media files (if generated dynamically)
+static/
+media/
